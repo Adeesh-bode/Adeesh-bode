@@ -1,5 +1,3 @@
-
-## 💫 About Me:
 # Hi there 👋
 I am Adesh Bode, Currently in my second year of B.Tech Data Science. I am passionate about Android and Web-developement.
 
