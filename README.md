@@ -18,8 +18,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adeesh-bode&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesh-bode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<table>
+  <tr>
+    <!-- First column for the GitHub Stats -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Adeesh-bode&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <!-- Second column for the Streak Stats and Top Languages -->
+    <td valign="top"> <!-- valign="top" ensures that the content aligns to the top if the heights vary -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesh-bode&theme=dark&hide_border=false" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesh-bode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🏆 GitHub Trophies
-## ![](https://github-profile-trophy.vercel.app/?username=Adeesh-bode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&size=23&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%91%8B+Thanks+for+swinging+by!;%F0%9F%8C%90+Let's+Network+on+LinkedIn;%F0%9F%A4%9D+My+repos+are+open+for+collaboration!" alt="Typing SVG" />
 
