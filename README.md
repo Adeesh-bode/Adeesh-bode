@@ -1,5 +1,9 @@
-# Hi there 👋
-I am Adesh Bode, Currently in my second year of B.Tech Data Science. I am passionate about Android and Web-developement.
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--YTgsVTF7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6vnsxy7g486k12yp4bhd.jpg)
+![Visitor Count](https://profile-counter.glitch.me/adesh.exc/count.svg) 
+<h1 align="center">Hi 👋, I'm Adesh Bode <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Frontend+;%F0%9F%8E%9B%EF%B8%8F+Backend;%F0%9F%93%8A+Data+Visualization;%F0%9F%8F%86+Competitive+Programming;%F0%9F%8E%A8+UI+Designer" alt="Typing SVG" /></a>
+
 
 
 # 💻 Tech Stack:
