@@ -40,3 +40,10 @@
 <p align="center">
   <a href="https://holopin.io/@adeeshbode"><img src="https://holopin.me/adeeshbode" alt="@adeeshbode's Holopin badges"></a>
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adesh.exc/adesh.exc/output/Platane/snk" />
+  <br/><br/>
+</div>
