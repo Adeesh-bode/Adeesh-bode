@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Frontend+;%F0%9F%8E%9B%EF%B8%8F+Backend;%F0%9F%93%8A+Data+Visualization;%F0%9F%8F%86+Competitive+Programming;%F0%9F%8E%A8+UI+Designer" alt="Typing SVG">
 </p>
-
+<br>
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -50,6 +50,9 @@
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
