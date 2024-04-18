@@ -60,14 +60,11 @@
   </p>
 </p>
 
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <a href="https://holopin.io/@adeeshbode"><img src="https://holopin.me/adeeshbode" alt="@adeeshbode's Holopin badges"></a>
-</p>
-
+<br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adeesh-bode/Adeesh-bode/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adeesh-bode/Adeesh-bode/output/github-contribution-grid-snake.svg">
@@ -77,7 +74,11 @@
 </div>
 
 <br>
+<br>
 
+<p align="center">
+  <a href="https://holopin.io/@adeeshbode"><img src="https://holopin.me/adeeshbode" alt="@adeeshbode's Holopin badges"></a>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&size=23&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%91%8B+Thanks+for+swinging+by!;%F0%9F%8C%90+Let's+Network+on+LinkedIn;%F0%9F%A4%9D+My+repos+are+open+for+collaboration!" alt="Typing SVG">
 </p>
