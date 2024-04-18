@@ -44,6 +44,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adesh.exc/adesh.exc/output/Platane/snk" />
+  <img src="https://github.com/adesh.exc/Adeesh-bode/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions">
+  
   <br/><br/>
 </div>
+
+
