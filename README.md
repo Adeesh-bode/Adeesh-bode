@@ -1,6 +1,7 @@
 <p align="center">
 <!--   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YTgsVTF7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6vnsxy7g486k12yp4bhd.jpg" alt="alt text"> -->
-  <img src='./code-monk.webp' alt='coding monk' ></img>
+<!--   <img src='./code-monk.webp' alt='coding monk' ></img> -->
+  <img src='./legendary.webp' alt='he he he' style='width:100%;' ></img>
 </p>
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
