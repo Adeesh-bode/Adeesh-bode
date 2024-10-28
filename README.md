@@ -58,13 +58,13 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesh-bode&theme=radical" alt="Adeesh Bode" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesh-bode&theme=merko" alt="Adeesh Bode" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesh-bode&theme=dark&hide_border=false"> -->
   <p align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Adeesh-bode&theme=dark&hide_border=false&include_all_commits=true&count_private=true"> -->
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Adeesh-bode&show_icons=true&theme=radical&locale=en" alt="Adeesh Bode" flex-grow=1 width= 400px />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Adeesh-bode&show_icons=true&theme=merko&locale=en" alt="Adeesh Bode" flex-grow=1  />
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesh-bode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesh-bode&show_icons=true&theme=radical&locale=en&layout=compact" alt="Adeesh Bode"  width=400px/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesh-bode&show_icons=true&theme=merko&locale=en&layout=compact&card_width=500&line_height=300" alt="Adeesh Bode" flex-grow=1 />
   </p>
 </p>
 
