@@ -62,9 +62,9 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeesh-bode&theme=dark&hide_border=false"> -->
   <p align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Adeesh-bode&theme=dark&hide_border=false&include_all_commits=true&count_private=true"> -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Adeesh-bode&show_icons=true&theme=merko&locale=en" alt="Adeesh Bode" flex-grow=1  />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeesh-bode&show_icons=true&theme=merko&locale=en" alt="Adeesh Bode" flex-grow=1  />
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeesh-bode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesh-bode&show_icons=true&theme=merko&locale=en&layout=compact&card_width=400&line_height=300" alt="Adeesh Bode" flex-grow=1 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeesh-bode&show_icons=true&theme=merko&locale=en&layout=compact&card_width=400&line_height=300" alt="Adeesh Bode" flex-grow=1 />
   </p>
 </p>
 
