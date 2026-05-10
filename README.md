@@ -12,7 +12,7 @@
 <h1 align="center">Hi 👋, I'm Adesh Bode <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Frontend+;%F0%9F%8E%9B%EF%B8%8F+Backend;%F0%9F%93%8A+Data+Visualization;%F0%9F%8F%86+Competitive+Programming;%F0%9F%8E%A8+UI+Designer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=700&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%96%A5%EF%B8%8F+Frontend;%F0%9F%8E%9B%EF%B8%8F+Backend;%E2%98%81%EF%B8%8F+Cloud+Engineer" alt="Typing SVG">
 </p>
 <br>
 <h2 align="center">💻 Tech Stack</h2>
@@ -50,6 +50,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <!-- new added -->
+  <img src="https://img.shields.io/badge/TestNG-EA5C2B?style=for-the-badge&logo=testng&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
